@@ -17,3 +17,5 @@ To revolutionize the way royalties are managed by eliminating intermediaries, re
 - Support for recurring payments and subscription-based models.
 - Cross-chain compatibility for multi-blockchain ecosystems.
 - User-friendly dashboard for creators to track earnings in real-time.
+
+0xBcEc6e32d7Fc9f53cEd8E4392724579E01Bf8d2f![Uploading image.png…]()
